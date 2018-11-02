@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.dev2bit.com">
+  <img width="200" alt="dev2bit"  src="https://raw.githubusercontent.com/fbohorquez/sql-charts-dashboard/master/resources/logo.png"/>
+</a>
+</p>
+
 # Proyecto web en curso
 Recomendaciones para un proyecto web en curso
 
@@ -23,3 +29,9 @@ Recomendaciones para un proyecto web en curso
 - [ ] Comprobar la configuración de la aplicación: conexión de base de datos, definición de URLs...
 - [ ] Configurar certificados de seguridad si procede
 - [ ] Comprobar tanto en el frontend, como en el backend, que todas las conexiones de red se hagan a los servidores correctos
+
+## Autor
+
+Francisco Javier Bohórquez Ogalla
+
+Developed with ♥ by [dev2bit](https://www.dev2bit.com)
