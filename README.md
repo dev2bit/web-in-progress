@@ -24,7 +24,7 @@ Recomendaciones para un proyecto web en curso
 - [ ] Migrar la base de datos
 - [ ] Migrar las configuraciones de sistemas: virtualhosts, php.ini...
 - [ ] Migrar otros datos relacionados: dominios, cuentas de email
-- [ ] Comprobar que la transferencia de datos no presenta errores mediante checksum
+- [ ] Comprobar que la transferencia de datos no presenta errores mediante [checksum](https://es.wikipedia.org/wiki/Suma_de_verificaci%C3%B3n)
 - [ ] Comprobar permisos del sistema de directorios
 - [ ] Comprobar la configuración de la aplicación: conexión de base de datos, definición de URLs...
 - [ ] Configurar certificados de seguridad si procede
